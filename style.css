@@ -28,7 +28,7 @@ body{
     color: white;
     font-weight: 600;
     padding: 10px 40px;
-    border-radius: 5px;
+    border-radius: 10px;
 }
 .pic-anwar-change{
     height: 400px;
@@ -106,10 +106,39 @@ body{
     color: white;
     font-weight: 600;
     padding: 10px 40px;
-    border-radius: 5px;
+    border-radius: 10px;
 }
 #top-banner{
     background-image: url(images/shapes/dream-bg.png);
     background-repeat: no-repeat;
     background-position: left;
+}
+.fourth-section{
+    display: flex;
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-top: 100px;
+}
+.third-change-img{
+    height: 300px;
+}
+.fifth-change{
+    padding-right: 80px;
+    font-size: 25px;
+    padding-right: 150px;
+    text-align: initial;
+}
+.last-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+    font-weight: 600;
+    padding: 10px 40px;
+    border-radius: 10px;
+}
+#top-banner-two{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-size: 150px;
 }
