@@ -43,13 +43,58 @@ body{
 }
 .second-section{
     display: flex;
-    width: 40%;
+    padding-right: 40px; 
+}
+.first-img-size{
+    height: 300px;
 }
 .first-box{
+    width: 70%;
     margin-left: 5%;
-    margin-right: 5%;
-    padding-right: 5px;
     padding-left: 5px;
     border-radius: 10px;
+    text-align: initial;
     box-shadow: 10px 10px 40px gray;
+    background-color: pink;
+}
+.second-box{
+    width: 70%;
+    margin-left: 5%;
+    padding-left: 5px;
+    border-radius: 10px;
+    text-align: initial;
+    box-shadow: 10px 10px 40px gray;
+    background-color: palegoldenrod;
+}
+.third-box{
+    width: 70%;
+    margin-left: 5%;
+    padding-left: 5px;
+    border-radius: 10px;
+    text-align: initial;
+    box-shadow: 10px 10px 40px gray;
+    background-color: peachpuff;
+}
+.dis-flexto{
+    display: flex;
+    padding-top: 100px;
+}
+.image-size{
+    padding-left: 120px;
+}
+.change-img{
+    height: 300px;
+}
+.right-side{
+    padding-left: 90px;
+    padding-right: 300px;
+    text-align: initial;
+}
+.second-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+    font-weight: 600;
+    padding: 10px 40px;
+    border-radius: 5px;
 }
