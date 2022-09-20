@@ -3,11 +3,10 @@ body{
 }
 .dis-flex{
     display: flex;
-    width: 40%;
     padding-top: 30px;
 }
 .step-one{
-    padding-left: 30px;
+    padding-left: 60px;
     padding-right: 20px;
 }
 .font-size{
@@ -20,19 +19,26 @@ body{
 }
 .para-size{
     font-size: 20px;
-    font-style: normal;
+    padding-right: 60px;
+    text-align: initial;
 }
 .button-desi{
     text-decoration: none;
-    background-image: linear-gradient(salmon, green);
+    background-image: linear-gradient(salmon, tomato);
     color: white;
     font-weight: 600;
     padding: 10px 40px;
     border-radius: 5px;
 }
+.pic-anwar-change{
+    height: 400px;
+    padding-right: 30px;
+}
 .pic-size{
     padding-left: 50px;
-    width: 80px;
+}
+.secnd-padding-top{
+    padding-top: 50px;
 }
 .second-design{
     font-size: 40px;
@@ -75,6 +81,9 @@ body{
     box-shadow: 10px 10px 40px gray;
     background-color: peachpuff;
 }
+.third-sec-top-padding{
+    padding-top: 50px;
+}
 .dis-flexto{
     display: flex;
     padding-top: 100px;
@@ -86,9 +95,10 @@ body{
     height: 300px;
 }
 .right-side{
-    padding-left: 90px;
+    padding-left: 150px;
     padding-right: 300px;
     text-align: initial;
+    font-size: 20px;
 }
 .second-button{
     text-decoration: none;
@@ -97,4 +107,9 @@ body{
     font-weight: 600;
     padding: 10px 40px;
     border-radius: 5px;
+}
+#top-banner{
+    background-image: url(images/shapes/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
 }
