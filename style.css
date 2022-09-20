@@ -142,3 +142,21 @@ body{
     background-position: right bottom;
     background-size: 150px;
 }
+.fifth-section{
+    display: flex;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-top: 150px;
+}
+.fourth-img-change{
+    height: 600px;
+    padding-right: 100px;
+}
+.atlast-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+    font-weight: 600;
+    padding: 10px 40px;
+    border-radius: 10px;
+}
