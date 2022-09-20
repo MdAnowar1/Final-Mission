@@ -160,3 +160,20 @@ body{
     padding: 10px 40px;
     border-radius: 10px;
 }
+footer{
+    background-color: black;
+    text-align: center;
+    font-size: 40px;
+}
+.last-season{
+    color: orangered;
+}
+.last-two-h1{
+    color: white;
+}
+.last-paragraph{
+    color: white;
+}
+#missin-style{
+    font-style: italic;
+}
