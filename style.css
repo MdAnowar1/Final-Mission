@@ -130,7 +130,7 @@ body{
 }
 .last-button{
     text-decoration: none;
-    background-image: linear-gradient(orange, tomato);
+    background-image: linear-gradient(salmon, tomato);
     color: white;
     font-weight: 600;
     padding: 10px 40px;
@@ -164,6 +164,7 @@ footer{
     background-color: black;
     text-align: center;
     font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .last-season{
     color: orangered;
@@ -176,4 +177,7 @@ footer{
 }
 #missin-style{
     font-style: italic;
+}
+.atlast-div{
+    padding-top: 50px;
 }
